@@ -1,12 +1,2 @@
-# DOWNLOADED VIDEOS LIST :
-
-----
-
-- 1 - ▶️ [اروپا-چه-بویی-میده؟](https://github.com/drziaei/yd/tree/main/videos/%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%DA%86%D9%87-%D8%A8%D9%88%DB%8C%DB%8C-%D9%85%DB%8C%D8%AF%D9%87%D8%9F)
-- 2 - 📽️ [از-دادگاه-گالیله-تا-کشف-باکتری،-قرن-هفدهم-در-اروپا-چه‌-خبر-بود؟-قسمت-دوم](https://github.com/drziaei/yd/tree/main/videos/%D8%A7%D8%B2-%D8%AF%D8%A7%D8%AF%DA%AF%D8%A7%D9%87-%DA%AF%D8%A7%D9%84%DB%8C%D9%84%D9%87-%D8%AA%D8%A7-%DA%A9%D8%B4%D9%81-%D8%A8%D8%A7%DA%A9%D8%AA%D8%B1%DB%8C%D8%8C-%D9%82%D8%B1%D9%86-%D9%87%D9%81%D8%AF%D9%87%D9%85-%D8%AF%D8%B1-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%DA%86%D9%87%E2%80%8C-%D8%AE%D8%A8%D8%B1-%D8%A8%D9%88%D8%AF%D8%9F-%D9%82%D8%B3%D9%85%D8%AA-%D8%AF%D9%88%D9%85)
-- 3 - ▶️ [تاریخ-شهر-اصفهان：-شاه-عباس-صفوی-که-بود-و-چه-کرد؟](https://github.com/drziaei/yd/tree/main/videos/%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%B4%D9%87%D8%B1-%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86%EF%BC%9A-%D8%B4%D8%A7%D9%87-%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B5%D9%81%D9%88%DB%8C-%DA%A9%D9%87-%D8%A8%D9%88%D8%AF-%D9%88-%DA%86%D9%87-%DA%A9%D8%B1%D8%AF%D8%9F)
-- 4 - 🎬 [خلاصه‌ی-تاریخ-قرن-هفده](https://github.com/drziaei/yd/tree/main/videos/%D8%AE%D9%84%D8%A7%D8%B5%D9%87%E2%80%8C%DB%8C-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D9%82%D8%B1%D9%86-%D9%87%D9%81%D8%AF%D9%87)
-- 5 - ▶️ [ده-نکته-عجیب-در-جنگ-جهانی-اول](https://github.com/drziaei/yd/tree/main/videos/%D8%AF%D9%87-%D9%86%DA%A9%D8%AA%D9%87-%D8%B9%D8%AC%DB%8C%D8%A8-%D8%AF%D8%B1-%D8%AC%D9%86%DA%AF-%D8%AC%D9%87%D8%A7%D9%86%DB%8C-%D8%A7%D9%88%D9%84)
-- 6 - 🎦 [زندگینامه-نادر-شاه-افشار-(فاتح-یا-قاتل)-[تاریخ-ایران]](https://github.com/drziaei/yd/tree/main/videos/%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%D9%86%D8%A7%D9%85%D9%87-%D9%86%D8%A7%D8%AF%D8%B1-%D8%B4%D8%A7%D9%87-%D8%A7%D9%81%D8%B4%D8%A7%D8%B1-%28%D9%81%D8%A7%D8%AA%D8%AD-%DB%8C%D8%A7-%D9%82%D8%A7%D8%AA%D9%84%29-%5B%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%5D)
-- 7 - 🎬 [شاه-عباس-صفوی-[زندگینامه-شاه-عباس-قسمت-دوم]-#شاه_عباس](https://github.com/drziaei/yd/tree/main/videos/%D8%B4%D8%A7%D9%87-%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B5%D9%81%D9%88%DB%8C-%5B%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%D9%86%D8%A7%D9%85%D9%87-%D8%B4%D8%A7%D9%87-%D8%B9%D8%A8%D8%A7%D8%B3-%D9%82%D8%B3%D9%85%D8%AA-%D8%AF%D9%88%D9%85%5D-%23%D8%B4%D8%A7%D9%87_%D8%B9%D8%A8%D8%A7%D8%B3)
-- 8 - 📽️ [شاه-عباس-صفوی-[زندگینامه-شاه-عباس]](https://github.com/drziaei/yd/tree/main/videos/%D8%B4%D8%A7%D9%87-%D8%B9%D8%A8%D8%A7%D8%B3-%D8%B5%D9%81%D9%88%DB%8C-%5B%D8%B2%D9%86%D8%AF%DA%AF%DB%8C%D9%86%D8%A7%D9%85%D9%87-%D8%B4%D8%A7%D9%87-%D8%B9%D8%A8%D8%A7%D8%B3%5D)
+## خالی
+برای شروع به تب Actions رفته و از گردش‌کارهای سمت چپ استفاده کنید
