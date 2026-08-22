@@ -1,10 +1,2 @@
-# DOWNLOADED VIDEOS LIST :
-
-----
-
-- 1 - 📺 [آموزش-گرامر-زبان-آلمانی-B1-درس-دهم-کتاب-STARTEN-WIR!](https://github.com/drziaei/yd/tree/main/videos/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%AF%D8%B1%D8%A7%D9%85%D8%B1-%D8%B2%D8%A8%D8%A7%D9%86-%D8%A2%D9%84%D9%85%D8%A7%D9%86%DB%8C-B1-%D8%AF%D8%B1%D8%B3-%D8%AF%D9%87%D9%85-%DA%A9%D8%AA%D8%A7%D8%A8-STARTEN-WIR%21)
-- 2 - ▶️ [آموزش-گرامر-زبان-آلمانی-B1-درس-دوازدهم-کتاب-STARTEN-WIR!](https://github.com/drziaei/yd/tree/main/videos/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%AF%D8%B1%D8%A7%D9%85%D8%B1-%D8%B2%D8%A8%D8%A7%D9%86-%D8%A2%D9%84%D9%85%D8%A7%D9%86%DB%8C-B1-%D8%AF%D8%B1%D8%B3-%D8%AF%D9%88%D8%A7%D8%B2%D8%AF%D9%87%D9%85-%DA%A9%D8%AA%D8%A7%D8%A8-STARTEN-WIR%21)
-- 3 - 🎦 [آموزش-گرامر-زبان-آلمانی-B1-درس-نهم-کتاب-STARTEN-WIR!-جملات-ربطی-Relativsatz](https://github.com/drziaei/yd/tree/main/videos/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%AF%D8%B1%D8%A7%D9%85%D8%B1-%D8%B2%D8%A8%D8%A7%D9%86-%D8%A2%D9%84%D9%85%D8%A7%D9%86%DB%8C-B1-%D8%AF%D8%B1%D8%B3-%D9%86%D9%87%D9%85-%DA%A9%D8%AA%D8%A7%D8%A8-STARTEN-WIR%21-%D8%AC%D9%85%D9%84%D8%A7%D8%AA-%D8%B1%D8%A8%D8%B7%DB%8C-Relativsatz)
-- 4 - 🎦 [آموزش-گرامر-زبان-آلمانی-B1-درس-هشتم-کتاب-STARTEN-WIR!](https://github.com/drziaei/yd/tree/main/videos/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%AF%D8%B1%D8%A7%D9%85%D8%B1-%D8%B2%D8%A8%D8%A7%D9%86-%D8%A2%D9%84%D9%85%D8%A7%D9%86%DB%8C-B1-%D8%AF%D8%B1%D8%B3-%D9%87%D8%B4%D8%AA%D9%85-%DA%A9%D8%AA%D8%A7%D8%A8-STARTEN-WIR%21)
-- 5 - 🎞️ [آموزش-گرامر-زبان-آلمانی-B1-درس-هفتم-کتاب-STARTEN-WIR!](https://github.com/drziaei/yd/tree/main/videos/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%AF%D8%B1%D8%A7%D9%85%D8%B1-%D8%B2%D8%A8%D8%A7%D9%86-%D8%A2%D9%84%D9%85%D8%A7%D9%86%DB%8C-B1-%D8%AF%D8%B1%D8%B3-%D9%87%D9%81%D8%AA%D9%85-%DA%A9%D8%AA%D8%A7%D8%A8-STARTEN-WIR%21)
-- 6 - 📺 [آموزش-گرامر-زبان-آلمانی-B1-درس-یازدهم-کتاب-STARTEN-WIR!](https://github.com/drziaei/yd/tree/main/videos/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%AF%D8%B1%D8%A7%D9%85%D8%B1-%D8%B2%D8%A8%D8%A7%D9%86-%D8%A2%D9%84%D9%85%D8%A7%D9%86%DB%8C-B1-%D8%AF%D8%B1%D8%B3-%DB%8C%D8%A7%D8%B2%D8%AF%D9%87%D9%85-%DA%A9%D8%AA%D8%A7%D8%A8-STARTEN-WIR%21)
+## خالی
+برای شروع به تب Actions رفته و از گردش‌کارهای سمت چپ استفاده کنید
