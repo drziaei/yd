@@ -1,9 +1,2 @@
-# DOWNLOADED VIDEOS LIST :
-
-----
-
-- 1 - 🎞️ [مردی-که-آلمان-ورشکسته-رو-در۶-سال-به-ابرقدرت-جهان-تبدیل-کرد-!](https://github.com/drziaei/yd/tree/main/videos/%D9%85%D8%B1%D8%AF%DB%8C-%DA%A9%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D9%88%D8%B1%D8%B4%DA%A9%D8%B3%D8%AA%D9%87-%D8%B1%D9%88-%D8%AF%D8%B1%DB%B6-%D8%B3%D8%A7%D9%84-%D8%A8%D9%87-%D8%A7%D8%A8%D8%B1%D9%82%D8%AF%D8%B1%D8%AA-%D8%AC%D9%87%D8%A7%D9%86-%D8%AA%D8%A8%D8%AF%DB%8C%D9%84-%DA%A9%D8%B1%D8%AF-%21)
-- 2 - 📺 [معجزه-آلمان：-چگونه-از-ویرانی-مطلق،-قدرتمندترین-اقتصاد-اروپا-شدند؟](https://github.com/drziaei/yd/tree/main/videos/%D9%85%D8%B9%D8%AC%D8%B2%D9%87-%D8%A2%D9%84%D9%85%D8%A7%D9%86%EF%BC%9A-%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%A7%D8%B2-%D9%88%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D9%85%D8%B7%D9%84%D9%82%D8%8C-%D9%82%D8%AF%D8%B1%D8%AA%D9%85%D9%86%D8%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%B4%D8%AF%D9%86%D8%AF%D8%9F)
-- 3 - 🎬 [معجزه-اقتصادی-هیتلر-｜-بزرگترین-دروغ-تاریخ-که-همه-باور-کردیم](https://github.com/drziaei/yd/tree/main/videos/%D9%85%D8%B9%D8%AC%D8%B2%D9%87-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D9%87%DB%8C%D8%AA%D9%84%D8%B1-%EF%BD%9C-%D8%A8%D8%B2%D8%B1%DA%AF%D8%AA%D8%B1%DB%8C%D9%86-%D8%AF%D8%B1%D9%88%D8%BA-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%DA%A9%D9%87-%D9%87%D9%85%D9%87-%D8%A8%D8%A7%D9%88%D8%B1-%DA%A9%D8%B1%D8%AF%DB%8C%D9%85)
-- 4 - ▶️ [چگونه-معجزه-اقتصادی-هیتلر،-الگوی-اقتصاد-ایران-و-روسیه-شد؟](https://github.com/drziaei/yd/tree/main/videos/%DA%86%DA%AF%D9%88%D9%86%D9%87-%D9%85%D8%B9%D8%AC%D8%B2%D9%87-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%DB%8C-%D9%87%DB%8C%D8%AA%D9%84%D8%B1%D8%8C-%D8%A7%D9%84%DA%AF%D9%88%DB%8C-%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D9%88-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D8%B4%D8%AF%D8%9F)
-- 5 - 📺 [یک-سال-رزیدنتی-بیهوشی-در-آلمان؛-اتاق-عمل-یا-ICU؟-👩🏻‍⚕️🇩🇪](https://github.com/drziaei/yd/tree/main/videos/%DB%8C%DA%A9-%D8%B3%D8%A7%D9%84-%D8%B1%D8%B2%DB%8C%D8%AF%D9%86%D8%AA%DB%8C-%D8%A8%DB%8C%D9%87%D9%88%D8%B4%DB%8C-%D8%AF%D8%B1-%D8%A2%D9%84%D9%85%D8%A7%D9%86%D8%9B-%D8%A7%D8%AA%D8%A7%D9%82-%D8%B9%D9%85%D9%84-%DB%8C%D8%A7-ICU%D8%9F-%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%E2%9A%95%EF%B8%8F%F0%9F%87%A9%F0%9F%87%AA)
+## خالی
+برای شروع به تب Actions رفته و از گردش‌کارهای سمت چپ استفاده کنید
